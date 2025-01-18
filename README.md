@@ -7,8 +7,11 @@ Machine learning solutions tailored for a transportation and logistics company
 Generate Dummy Data:
 
 carrier_pricing: Models pricing based on base price, market demand, and COVID effect.
+
 customer_pricing: Simulates cost, competitor margin, and recommended margin.
+
 carrier_recommendation: Uses features like postings, searches, and past behavior scores.
+
 
 Carrier Pricing Model: Linear regression predicts the final price based on base_price, market_demand, and covid_effect.
 
